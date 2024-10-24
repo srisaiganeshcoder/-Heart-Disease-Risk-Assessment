@@ -1,2 +1,1 @@
-# Heart-Disease-Risk-Assessment
-This project involves  input their health data, such as age, gender, blood pressure, cholesterol levels, and lifestyle factors. The application will implement a machine learning model (Random Forest or similar) trained on a heart disease dataset to predict the user's risk of heart disease based on the input data.
+This project involves utilizing a dataset containing various HR-related features (e.g., employee satisfaction, years at the company, job role, salary) to predict whether an employee is likely to leave the company (attrition). The goal is to create a classification model that can help HR departments anticipate and reduce employee turnover.
